@@ -1,4 +1,6 @@
 .DS_Store
 sync_msg.sh
-Kicad/Mowgli/_autosave-*
 .vscode/settings.json
+Kicad/Mowgli/_autosave-*
+Kicad/Mowgli/fp-info-cache
+Kicad/Mowgli/Mowgli-backups/*

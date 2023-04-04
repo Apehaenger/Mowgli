@@ -1903,11 +1903,20 @@
     (path "/00000000-0000-0000-0000-0000628d8f35/00000000-0000-0000-0000-000062d3b72f"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006292fe67/1644bc41-7f99-443e-913d-d62c3b3eccf2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006292fe67/2548e673-6dc9-4d66-a554-b4b3c4d1d375"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006292fe67/54591b1b-4a67-4243-b61d-7ee6e3e56db3"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006292fe67/55ecd4b5-3717-4bc4-a4fd-bede5e2fafe8"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006292fe67/d022e9a9-73c1-4554-993a-f9fdb877873c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006292fe67/d807a3cd-95e0-4774-a66c-556fa07a22fa"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
@@ -1986,6 +1995,9 @@
     )
     (path "/00000000-0000-0000-0000-000062b975b8/00000000-0000-0000-0000-000062bae458"
       (reference "D?") (unit 1) (value "D") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006292fe67/e12b2296-c07d-45af-b029-7af011545ecb"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000628db6fb/00000000-0000-0000-0000-0000628e8c23"
       (reference "F1") (unit 1) (value "Fuse") (footprint "")
@@ -2098,6 +2110,9 @@
     (path "/00000000-0000-0000-0000-000062c3c0f1/00000000-0000-0000-0000-000062c48139"
       (reference "R2") (unit 1) (value "4.7k") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006292fe67/3e367837-bfbf-4148-abeb-6bf6b32f50e8"
+      (reference "R19") (unit 1) (value "0") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-0000628db6fb/00000000-0000-0000-0000-0000629016d5"
       (reference "R21") (unit 1) (value "R1") (footprint "")
     )
@@ -2107,14 +2122,23 @@
     (path "/00000000-0000-0000-0000-0000628db6fb/00000000-0000-0000-0000-0000629de43f"
       (reference "R24") (unit 1) (value "12k") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006292fe67/21eec3ef-8b25-451f-b60b-0ecca72c37d1"
+      (reference "R24") (unit 1) (value "0") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00006292fe67/00000000-0000-0000-0000-000062a2464e"
       (reference "R27") (unit 1) (value "200") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000628db6fb/00000000-0000-0000-0000-0000629145f6"
       (reference "R28") (unit 1) (value "30k") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00006292fe67/0453b9e4-21ad-45ee-8b65-522e5374339f"
+      (reference "R29") (unit 1) (value "0") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-0000628db6fb/00000000-0000-0000-0000-000062952550"
       (reference "R32") (unit 1) (value "1k") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006292fe67/ac5703bf-3709-4a7a-973d-80648f2f9c26"
+      (reference "R32") (unit 1) (value "0") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000628db6fb/00000000-0000-0000-0000-000062924722"
       (reference "R33") (unit 1) (value "12k") (footprint "")
@@ -2274,6 +2298,9 @@
     )
     (path "/00000000-0000-0000-0000-00006293f03e/00000000-0000-0000-0000-00006294a172"
       (reference "R?") (unit 1) (value "5k") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006292fe67/9387c9b0-ec98-4bcc-9e06-128fb1d034c1"
+      (reference "R?") (unit 1) (value "1k") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000062bc248c/00000000-0000-0000-0000-000062bca3fa"
       (reference "RP6") (unit 1) (value "4.7k") (footprint "Resistor_THT:R_Array_SIP5")
