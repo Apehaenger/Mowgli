@@ -1,6 +1,7 @@
 .DS_Store
 sync_msg.sh
-.vscode/settings.json
+.vscode/*
 Kicad/Mowgli/_autosave-*
 Kicad/Mowgli/fp-info-cache
 Kicad/Mowgli/Mowgli-backups/*
+stm32/custom_panel_fw/YF500C_panel/.vscode/*
