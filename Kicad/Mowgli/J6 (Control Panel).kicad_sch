@@ -2851,7 +2851,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0e32a35d-bef1-4a13-9cc3-48778a95bb1f)
   )
-  (text "Optional: Solder Cable\nto U5/Pin-2 to get\nSignal to PB6"
+  (text "Optional: Solder Cable\nto U5/Pin-10 to get\nSignal to PB8"
     (at 119.38 20.32 0)
     (effects (font (size 1.27 1.27) italic) (justify left bottom))
     (uuid 1dfddcc6-6e79-4cd0-af2f-6886bbbb02ff)
